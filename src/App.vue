@@ -10,7 +10,7 @@
   </header>
 
   <main>
-    
+    {{i18next.t('anotherKey')}}
   </main>
 </template>
 <script>
