@@ -1,4 +1,5 @@
 {
     "greeting": "Hei Endring!",
-    "anotherKey": "Min andre nøkkeltext"
+    "anotherKey": "Min andre nøkkeltext",
+    "newKey": "Min nye nøkkeltext"
 }
