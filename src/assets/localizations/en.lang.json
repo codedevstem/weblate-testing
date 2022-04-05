@@ -1,6 +1,7 @@
 {
     "greeting": "Hi revised!",
     "anotherKey": "My other key text",
-    "bottomText": "",
-    "newKey": "New Key Text"
+    "newKey": "New Key Text",
+    "bottomText": ""
+
 }
